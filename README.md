@@ -1,6 +1,4 @@
 # bits2bytes
-man on a small mission;
+small man on a small mission;
+printf("lolwa/n");
 
-main(){
-printf("lol/n");
-}
