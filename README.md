@@ -1,2 +1,6 @@
 # bits2bytes
-man on a small mission
+man on a small mission;
+
+main(){
+printf("lol/n");
+}
